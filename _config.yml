@@ -6,7 +6,7 @@ description: > # this means to ignore newlines until "baseurl:"
   This is my new blog using Github pages and Jekyll. This blog will
   be a discussion site for some of my favorite topics and hobbies.
 # social links
-twitter_username: @andrewteece
+twitter_username: andrewteece
 github_username:  andrewteece
 
 show_excerpts: true # set to false to remove excerpts on the homepage
